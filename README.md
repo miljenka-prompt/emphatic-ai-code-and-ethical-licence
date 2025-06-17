@@ -26,7 +26,10 @@ License (Ethical Use License):
 https://tinyurl.com/46txbnkp
 
 Model documentation and code:  
-https://tinyurl.com/2ch2xrtk
+https://tinyurl.com/2ch2xrt
+
+MetaPrompt-Advanced (BoundaryGuard Edition)
+https://tinyurl.com/338sw2p3
 
 Technical Overview
 https://tinyurl.com/4bz6y3e4
