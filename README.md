@@ -1,4 +1,14 @@
+⚠️ Disclaimer: Experimental Code Advisory / Napomena: Savjet o eksperimentalnom kodu
 
+ENGLISH
+This repository contains experimental code generated through iterative interaction with large language models (LLMs), in a process informally referred to as "vibe coding." Although care has been taken to structure and annotate the code for clarity, it may contain errors, hallucinated dependencies, or syntactic inconsistencies. The code should be treated as **a conceptual and exploratory artifact**, not as production-ready software.  
+Technical review and independent validation are **strongly recommended** before reuse or integration in other systems.  
+This project is shared in the spirit of open scientific exploration and collaboration.
+
+CROATIAN / HRVATSKI
+Ovo spremište sadrži eksperimentalni kod generiran kroz iterativnu interakciju s modelima temeljenima na velikim jezičnim modelima (LLM), u procesu koji se neformalno naziva "vibe kodiranje". Iako je uložen trud u strukturiranje i komentiranje koda radi jasnoće, on može sadržavati pogreške, halucinirane ovisnosti ili sintaktičke nedosljednosti. Kod se treba smatrati **konceptualnim i istraživačkim artefaktom**, a ne softverom spremnim za produkcijsku upotrebu.  
+Preporučuje se **stručna revizija i neovisna validacija** prije ponovne upotrebe ili integracije u druge sustave.  
+Projekt se dijeli u duhu otvorenog znanstvenog istraživanja i suradnje.
 
 # 🍳 Self-Regulating Meta-Prompt Cookbook  
 *Recipes for Empathetic, Responsible AI Design*  
